@@ -1,0 +1,7 @@
+﻿  mkdir.cpp
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\head.h(14): warning C4129: “: 不可识别的字符转义序列
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\head.h(14): warning C4129: “D”: 不可识别的字符转义序列
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\head.h(14): warning C4129: “: 不可识别的字符转义序列
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\head.h(14): warning C4129: “: 不可识别的字符转义序列
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\head.h(14): warning C4129: “M”: 不可识别的字符转义序列
+  FileSystem.vcxproj -> C:\Users\苏源源\Documents\大三下\操作系统\新建文件夹\FileSystem\Debug\FileSystem.exe

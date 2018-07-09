@@ -1,0 +1,133 @@
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\allocdatablock.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\close.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\copy.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\create.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\deldir.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\delfile.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\dir.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\initialize.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\load.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\loginin.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\loginout.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\ltdir.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\main.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\mkdir.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\ntdir.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\open.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\read.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\releasedatablock.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\rename.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\write.obj
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\filesystem\debug\vc110.pdb
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\allocdatablock.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\close.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\copy.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\create.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\deldir.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\delfile.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\dir.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\initialize.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\load.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\loginin.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\loginout.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\ltdir.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\main.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\mkdir.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\ntdir.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\open.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\read.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\releasedatablock.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\rename.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\write.obj
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\filesystem\debug\vc110.pdb
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\debug\filesystem.ilk
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\debug\filesystem.exe
+c:\users\administrator\desktop\filesystem - 副本 (2)\filesystem\debug\filesystem.pdb
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\debug\filesystem.ilk
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\debug\filesystem.exe
+c:\users\administrator\desktop\os课设\计算机1103陈湃组操作系统课设\filesystem\debug\filesystem.pdb
+d:\filesystem\filesystem\debug\vc140.pdb
+d:\filesystem\filesystem\debug\vc140.idb
+d:\filesystem\filesystem\debug\allocdatablock.obj
+d:\filesystem\filesystem\debug\close.obj
+d:\filesystem\filesystem\debug\copy.obj
+d:\filesystem\filesystem\debug\create.obj
+d:\filesystem\filesystem\debug\deldir.obj
+d:\filesystem\filesystem\debug\delfile.obj
+d:\filesystem\filesystem\debug\dir.obj
+d:\filesystem\filesystem\debug\initialize.obj
+d:\filesystem\filesystem\debug\load.obj
+d:\filesystem\filesystem\debug\loginin.obj
+d:\filesystem\filesystem\debug\loginout.obj
+d:\filesystem\filesystem\debug\ltdir.obj
+d:\filesystem\filesystem\debug\main.obj
+d:\filesystem\filesystem\debug\mkdir.obj
+d:\filesystem\filesystem\debug\ntdir.obj
+d:\filesystem\filesystem\debug\open.obj
+d:\filesystem\filesystem\debug\read.obj
+d:\filesystem\filesystem\debug\releasedatablock.obj
+d:\filesystem\filesystem\debug\rename.obj
+d:\filesystem\filesystem\debug\write.obj
+d:\filesystem\filesystem\debug\register.obj
+d:\filesystem\filesystem\debug\help.obj
+d:\filesystem\debug\filesystem.ilk
+d:\filesystem\debug\filesystem.exe
+d:\filesystem\debug\filesystem.pdb
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\allocdatablock.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\close.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\copy.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\create.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\deldir.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\delfile.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\dir.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\help.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\initialize.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\load.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\loginin.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\loginout.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\ltdir.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\main.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\mkdir.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\ntdir.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\open.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\parsecommand.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\read.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\register.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\releasedatablock.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\rename.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\write.obj
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\cl.command.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\cl.read.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\cl.write.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\link-cvtres.read.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\link-cvtres.write.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\link-rc.read.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\link-rc.write.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\link.4840-cvtres.read.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\link.4840-cvtres.write.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\link.4840-rc.read.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\link.4840-rc.write.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\link.4840.read.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\link.4840.write.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\link.command.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\link.read.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\link.write.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\mt.command.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\mt.read.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\mt.write.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\filesystem.exe.intermediate.manifest
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\vc100.idb
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\vc110.idb
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\vc140.idb
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\vc100.pdb
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\vc110.pdb
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\vc140.pdb
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\debug\filesystem.pdb
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\debug\filesystem.exe
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\debug\filesystem.ilk
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\filesystem.tlog\cl.command.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\filesystem.tlog\cl.read.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\filesystem.tlog\cl.write.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\filesystem.tlog\link.command.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\filesystem.tlog\link.read.1.tlog
+c:\users\苏源源\documents\大三下\操作系统\新建文件夹\filesystem\filesystem\debug\filesystem.tlog\link.write.1.tlog
